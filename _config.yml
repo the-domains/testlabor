@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 1
+color:
+  saturation: 0.6940708
+  lightness: 0.5834739
+  brandStrength: 0.5109612
+  rhythmicContrast: 0.2639123
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Testlabor
